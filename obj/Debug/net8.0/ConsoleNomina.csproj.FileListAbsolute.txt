@@ -12,3 +12,4 @@ C:\Users\Aprendiz\source\repos\ConsoleNomina\obj\Debug\net8.0\refint\ConsoleNomi
 C:\Users\Aprendiz\source\repos\ConsoleNomina\obj\Debug\net8.0\ConsoleNomina.pdb
 C:\Users\Aprendiz\source\repos\ConsoleNomina\obj\Debug\net8.0\ConsoleNomina.genruntimeconfig.cache
 C:\Users\Aprendiz\source\repos\ConsoleNomina\obj\Debug\net8.0\ref\ConsoleNomina.dll
+C:\Users\Aprendiz\source\repos\ConsoleNomina\obj\Debug\net8.0\ConsoleNomina.sourcelink.json
