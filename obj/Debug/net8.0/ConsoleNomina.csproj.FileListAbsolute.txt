@@ -1,0 +1,14 @@
+C:\Users\Aprendiz\source\repos\ConsoleNomina\bin\Debug\net8.0\ConsoleNomina.exe
+C:\Users\Aprendiz\source\repos\ConsoleNomina\bin\Debug\net8.0\ConsoleNomina.deps.json
+C:\Users\Aprendiz\source\repos\ConsoleNomina\bin\Debug\net8.0\ConsoleNomina.runtimeconfig.json
+C:\Users\Aprendiz\source\repos\ConsoleNomina\bin\Debug\net8.0\ConsoleNomina.dll
+C:\Users\Aprendiz\source\repos\ConsoleNomina\bin\Debug\net8.0\ConsoleNomina.pdb
+C:\Users\Aprendiz\source\repos\ConsoleNomina\obj\Debug\net8.0\ConsoleNomina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aprendiz\source\repos\ConsoleNomina\obj\Debug\net8.0\ConsoleNomina.AssemblyInfoInputs.cache
+C:\Users\Aprendiz\source\repos\ConsoleNomina\obj\Debug\net8.0\ConsoleNomina.AssemblyInfo.cs
+C:\Users\Aprendiz\source\repos\ConsoleNomina\obj\Debug\net8.0\ConsoleNomina.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz\source\repos\ConsoleNomina\obj\Debug\net8.0\ConsoleNomina.dll
+C:\Users\Aprendiz\source\repos\ConsoleNomina\obj\Debug\net8.0\refint\ConsoleNomina.dll
+C:\Users\Aprendiz\source\repos\ConsoleNomina\obj\Debug\net8.0\ConsoleNomina.pdb
+C:\Users\Aprendiz\source\repos\ConsoleNomina\obj\Debug\net8.0\ConsoleNomina.genruntimeconfig.cache
+C:\Users\Aprendiz\source\repos\ConsoleNomina\obj\Debug\net8.0\ref\ConsoleNomina.dll
